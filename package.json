@@ -1,0 +1,13 @@
+{
+  "name": "leetcode_examples",
+  "private": false,
+  "author": "Karnav Pargi",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.1"
+  }
+}
