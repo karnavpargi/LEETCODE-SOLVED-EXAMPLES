@@ -1,8 +1,9 @@
-// Leetcode : https://leetcode.com/problems/squares-of-a-sorted-array/description/
-// You are given an array of
-
 /*
-Q: `You are given an array of integers in which each subsequent value is not less than prev value. Write a function that takes this array as an input and returns a new array with the squares of each number sorted in ascending order.`
+Leetcode : https://leetcode.com/problems/squares-of-a-sorted-array/description/
+
+Q: You are given an array of integers in which each subsequent value is not less than prev value.
+   Write a function that takes this array as an input and returns a new array with the squares of each number sorted in ascending order.
+
 -> Remember: You can solve this question in multiple ways.
 -> Think about the following -
     1.What would be the brute force way of solving this question ? What would be the Time and Space complexity of this approach?
